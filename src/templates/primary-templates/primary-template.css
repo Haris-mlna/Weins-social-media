@@ -1,0 +1,10 @@
+:root {
+  --color-primary: #222831;
+  --color-secondary: #393E46;
+  --color-accent : #00ADB5;
+  --color-background : #EEEEEE;
+}
+
+.template-primary {
+  background-color: var(--color-background);
+}
